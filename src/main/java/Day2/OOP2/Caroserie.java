@@ -1,7 +1,5 @@
 package Day2.OOP2;
 
-]
-
 public class Caroserie {
     private String culoare;
     private final String forma;

@@ -5,6 +5,7 @@ package Day2.OOP.graphicshape;
  **/
 
 public class Circles {
+    
     private final Circle circle;
 
     public Circles(Circle circle) {

@@ -1,7 +1,7 @@
 package Day2.OOP.runapp;
 
-import ro.db.oop.canvas.Canvas;
-import ro.db.oop.graphicshape.*;
+import Day2.OOP.canvas.Canvas;
+import Day2.OOP.graphicshape.*;
 
 /**
  * RunApp
@@ -9,6 +9,7 @@ import ro.db.oop.graphicshape.*;
 
 public class RunApp {
     public static void main(String[] args) {
+
         Circle circle=new Circle(4,5,7, 21, 22f);
         Circles circles = new Circles(circle);
         double area= circles.getAreaPub();
@@ -19,9 +20,9 @@ public class RunApp {
         canvas.paint();
 
         Shape s1=new Circle(10,-1,-2, 21, 22f);
-        Shape s2=new Square(10);
+//        Shape s2=new Square(10);
         System.out.println(s1.area());
-        System.out.println(s2.area());
+//        System.out.println(s2.area());
 
 
         Object p1=new Point(10,20);
