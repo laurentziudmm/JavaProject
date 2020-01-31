@@ -2,4 +2,8 @@
 *.iml
 .log
 target
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+>>>>>>> c1b82f37230f3ef4b06af13f719f5b2c16981e5e
