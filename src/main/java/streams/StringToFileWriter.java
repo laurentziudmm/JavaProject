@@ -1,4 +1,4 @@
-package streams.files;
+package streams;
 
 import java.io.File;
 import java.io.FileWriter;

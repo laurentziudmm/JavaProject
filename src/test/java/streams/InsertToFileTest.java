@@ -1,4 +1,4 @@
-package streams.files;
+package streams;
 
 import org.junit.Assert;
 import org.junit.Before;
