@@ -1,1 +1,23 @@
 INFO main HelloWorld - Enters in hello(Laurentiu) from HelloWorld
+ERROR main reflectionTwo.api.em.EntityManagerImpl - java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+ERROR main reflectionTwo.api.em.EntityManagerImpl - java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+ERROR main reflectionTwo.api.em.EntityManagerImpl - java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+ERROR main reflectionTwo.api.em.EntityManagerImpl - java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+ERROR main reflectionTwo.api.em.EntityManagerImpl - java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+ERROR main reflectionTwo.api.em.EntityManagerImpl - java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+ERROR main reflectionTwo.api.em.EntityManagerImpl - java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+ERROR main reflectionTwo.api.em.EntityManagerImpl - java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+ERROR main reflectionTwo.api.em.EntityManagerImpl - java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+ERROR main reflectionTwo.api.em.EntityManagerImpl - java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+ERROR main reflectionTwo.api.em.EntityManagerImpl - java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/postgres
+ERROR main reflectionTwo.api.em.EntityManagerImpl - org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+ERROR main reflectionTwo.api.em.EntityManagerImpl - org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+ERROR main reflectionTwo.api.em.EntityManagerImpl - org.postgresql.util.PSQLException: The authentication type 892,220,718 is not supported. Check that you have configured the pg_hba.conf file to include the client's IP address or subnet, and that it is using an authentication scheme supported by the driver.
+ERROR main reflectionTwo.api.em.EntityManagerImpl - org.postgresql.util.PSQLException: The authentication type 892,220,718 is not supported. Check that you have configured the pg_hba.conf file to include the client's IP address or subnet, and that it is using an authentication scheme supported by the driver.
+ERROR main reflectionTwo.api.em.EntityManagerImpl - org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+ERROR main reflectionTwo.api.em.EntityManagerImpl - org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+ERROR main reflectionTwo.api.em.EntityManagerImpl - org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+ERROR main reflectionTwo.api.em.EntityManagerImpl - org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+ERROR main reflectionTwo.api.em.EntityManagerImpl - org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+ERROR main reflectionTwo.api.em.EntityManagerImpl - org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+ERROR main reflectionTwo.api.em.EntityManagerImpl - org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.

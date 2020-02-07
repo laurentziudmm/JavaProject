@@ -1,16 +1,16 @@
-package reflectionTwo.api.em;
+package reflectionTwo.api.emEx;
 
 
 public class Condition {
-    private String columnName;
+    private String type;
     private Object value;
 
-    public String getColumnName() {
-        return columnName;
+    public String getType() {
+        return type;
     }
 
-    public void setColumnName(String columnName) {
-        this.columnName = columnName;
+    public void setType(String type) {
+        this.type = type;
     }
 
     public Object getValue() {

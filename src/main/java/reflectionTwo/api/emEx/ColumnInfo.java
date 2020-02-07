@@ -1,8 +1,9 @@
-package reflectionTwo.api.em;
+package reflectionTwo.api.emEx;
+
 
 public class ColumnInfo {
     private String columnName;
-    private Class columnType;
+    private Class<?> columnType;
     private String dbColumnName;
     private boolean id;
     private Object value;
@@ -15,11 +16,11 @@ public class ColumnInfo {
         this.columnName = columnName;
     }
 
-    public Class getColumnType() {
+    public Class<?> getColumnType() {
         return columnType;
     }
 
-    public void setColumnType(Class columnType) {
+    public void setColumnType(Class<?> columnType) {
         this.columnType = columnType;
     }
 
